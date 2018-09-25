@@ -1,0 +1,737 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"b"
+			],
+			[
+				"func",
+				"func (*orders)\tfunc (...) {...} ʂ"
+			],
+			[
+				"fu",
+				"func (*order)\tfunc (...) {...} ʂ"
+			],
+			[
+				"imp",
+				"import\timport (...) ʂ"
+			],
+			[
+				"fuc",
+				"func (*pq)\tfunc (...) {...} ʂ"
+			],
+			[
+				"fucn",
+				"func (*minHeap)\tfunc (...) {...} ʂ"
+			],
+			[
+				"pr",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"clock",
+				"clock_t"
+			],
+			[
+				"cstr",
+				"c_str"
+			],
+			[
+				"int",
+				"int_pair"
+			],
+			[
+				"t",
+				"tot"
+			],
+			[
+				"e",
+				"next_e"
+			],
+			[
+				"be",
+				"best"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"I",
+				"INT_MAX"
+			],
+			[
+				"bo",
+				"Board"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"Ar",
+				"ArrayList"
+			],
+			[
+				"bu",
+				"busyDiag1"
+			],
+			[
+				"sol",
+				"mySolve"
+			],
+			[
+				"l",
+				"ListNode"
+			],
+			[
+				"m",
+				"main\tmethod (main)"
+			],
+			[
+				"gen",
+				"generateParenthesis"
+			],
+			[
+				"super",
+				"superPow2"
+			],
+			[
+				"retu",
+				"return"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "1532/1532_2.cpp",
+			"settings":
+			{
+				"buffer_size": 988,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control:remove",
+		"selected_items":
+		[
+			[
+				"Package Control:remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 195.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/apple/HDOJ",
+		"/Users/apple/HDOJ/1532"
+	],
+	"file_history":
+	[
+		"/Users/apple/HDOJ/1532/1532.cpp",
+		"/Users/apple/Desktop/图/网络流/最小割/poj3469最小割(dinic)(推荐)/提交.txt",
+		"/Users/apple/HDUOJ/1000/1000.cpp",
+		"/Users/apple/HackerRank/InterviewPreparationKit/Graphs/BFSShortestReachInAGraph/bfs.cpp",
+		"/Users/apple/HackerRank/InterviewPreparationKit/Graphs/Matrix/matrix.cpp",
+		"/Users/apple/HackerRank/InterviewPreparationKit/Graphs/DFSConnectedCellInAGrid/dfs.cpp",
+		"/Users/apple/HackerRank/InterviewPreparationKit/Graphs/FindTheNearestClone/find_the_nearest_clone.cpp",
+		"/Users/apple/HackerRank/Tutorials/10DaysOfStatistics/Day5NormalDistribution1/normal1.go",
+		"/Users/apple/HackerRank/Tutorials/10DaysOfStatistics/Day5PoissonDistribution2/poisson2.go",
+		"/Users/apple/HackerRank/Tutorials/10DaysOfStatistics/Day5PoissonDistribution1/poisson1.go",
+		"/Users/apple/HackerRank/Tutorials/10DaysOfStatistics/Day4BiomialDistribution2/binomial2.go",
+		"/Users/apple/HackerRank/Tutorials/10DaysOfStatistics/Day4BiomialDistribution1/binomial1.go",
+		"/Users/apple/HackerRank/DataStructures/Trees/SwapNodes/swap_nodes.go",
+		"/Users/apple/HackerRank/DataStructures/Trees/TreePreorderTraversal/tree_preorder_traversal.cpp",
+		"/Users/apple/HackerRank/DataStructures/Trees/TreePreorderTraversal/tree_preorder_traversal.go",
+		"/Users/apple/HackerRank/DataStructures/Heap/MinimumAverageWaitingTime/minimum_average_waiting_time.go",
+		"/Users/apple/HackerRank/DataStructures/Heap/JesseAndCookies/jesse_and_cookies.go",
+		"/Users/apple/Desktop/806685 615787220",
+		"/Users/apple/HackerRank/DataStructures/Heap/FindTheRunningMedian/find_the_running_median.go",
+		"/Users/apple/HackerRank/DataStructures/Heap/QHEAP1/qheap1.go",
+		"/Users/apple/HackerRank/Regex/Repetitions/MathingXRrepetitions/repetitions.java",
+		"/Users/apple/HackerRank/Regex/CharaterClass/MatchingCharacterRanges/ranges.java",
+		"/Users/apple/HackerRank/Regex/CharaterClass/ExcludingSpecificCharacters/excluding.java",
+		"/Users/apple/HackerRank/Regex/CharaterClass/MatchingSpecificCharacters/specific.java",
+		"/Users/apple/HackerRank/Regex/Introduction/MatchingWordAndNonWordCharacter/word.java",
+		"/Users/apple/HackerRank/Regex/Introduction/MatchingDigitsAndNonDigitCharacters/digits.java",
+		"/Users/apple/HackerRank/Regex/Introduction/MatchingStartAndEnd/start_and_end.java",
+		"/Users/apple/HackerRank/Regex/Introduction/MatchAnythingButANewline/dot.java",
+		"/Users/apple/HackerRank/Security/TerminologyAndConcepts/SecurityKeySpaces/security_key_spaces.go",
+		"/Users/apple/HackerRank/Security/TerminologyAndConcepts/MessageSpaceAndCiphertextSpace/message_space_and_cipher_text_space.go",
+		"/Users/apple/HackerRank/Security/TerminologyAndConcepts/SecurityEncryptionScheme/security_encryption_scheme.go",
+		"/Users/apple/HackerRank/FunctionalProgramming/PrefixCompression/prefix_compression.ml",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/apple/HackerRank/Security/Cryptography/BasicCryptanalysis/basic_cryptanalasis.go",
+		"/Users/apple/HackerRank/Security/Cryptography/KeywordTranspositionCipher/keyword_transposition_cipher.go",
+		"/Users/apple/HackerRank/Security/Cryptography/PRNGSequence/prng_sequence.go",
+		"/Users/apple/HackerRank/Security/Functions/SecurityInvolution/security_involution.go",
+		"/Users/apple/HackerRank/Security/Functions/SecurityPermutations/security_permutations.go",
+		"/Users/apple/HackerRank/Security/Functions/SecurityFunctionInverses/security_function_inverses.go",
+		"/Users/apple/HackerRank/Security/Functions/SecurityBijectiveFunctions/security_bijective_functions.go",
+		"/Users/apple/HackerRank/Security/Functions/SecurityFunctions2/security_functions2.go",
+		"/Users/apple/HackerRank/Security/Functions/SecurityFunctions/security_functions.go",
+		"/Users/apple/HackerRank/DataStructures/Stacks/PoisonousPlants/poisonous_plants.cpp",
+		"/Users/apple/HackerRank/DataStructures/Stacks/MaximumElement/maximum_element.cpp",
+		"/Users/apple/HackerRank/Algorithms/Search/MinimumLoss/minimum_loss_2.cpp",
+		"/Users/apple/HackerRank/Algorithms/Search/MinimumLoss/minimum_loss.cpp",
+		"/Users/apple/HackerRank/Tutorials/10DaysOfStatistics/Day1StandardDeviation/day1_standard_deviation.cpp",
+		"/Users/apple/HackerRank/Tutorials/10DaysOfStatistics/Day1InterquartileRange/day1_interquartile_range.cpp",
+		"/Users/apple/HackerRank/Tutorials/10DaysOfStatistics/Day1Quartiles/day1_quartiles.cpp",
+		"/Users/apple/HackerRank/Tutorials/10DaysOfStatistics/Day0WeightedMean/day0_weighted_mean.cpp",
+		"/Users/apple/HackerRank/Tutorials/10DaysOfStatistics/Day0MeanMedianAndMode/day0.cpp",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/MergeSortCountingInversions/merge_sort_counting_inversions.cpp",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/MergeSortCountingInversions/a.in",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/TimeComplexityPrimality/time_complexity_primality.cpp",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/BinarySearchIceCreamParlor/binary_search_ice_cream_parlor.cpp",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/SortingComparator/sorting_comparator.cpp",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/QueuesATaleOfTwoStacks/queues_2.cpp",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/QueuesATaleOfTwoStacks/queues.cpp",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/StacksBalancedBrackets/stacks.cpp",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/HeapsFindTheRunningMedian/ans.out",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/HeapsFindTheRunningMedian/a.out",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/HeapsFindTheRunningMedian/a.in",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/HeapsFindTheRunningMedian/heaps_2.cpp",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/HeapsFindTheRunningMedian/heaps.cpp",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/TreesIsThisABinarySearchTree/trees.cpp",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/HashTablesRansomNote/hash_tables_ransom_note.cpp",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/HashTablesRansomNote/a.in",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/LinkedListsDetectACycle/linked_lists_detect_a_cycle.cpp",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/StringsMakingAnagrams/strings_making_anagrams.cpp",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/RecursionFibonacciNumbers/recursion_fibonacci_numbers.cpp",
+		"/Users/apple/HackerRank/Tutorials/CrackingTheCodingInterview/ArraysLeftRotation/arrays_left_rotation.ml",
+		"/Users/apple/HackerRank/Algorithms/GraphTheory/RustAndMurderer/rust_and_murderer.cpp",
+		"/Users/apple/HackerRank/Algorithms/GraphTheory/RustAndMurderer/a.in",
+		"/Users/apple/HackerRank/Algorithms/GraphTheory/BreadthFirstSearchShortestReach/a.in",
+		"/Users/apple/HackerRank/Algorithms/GraphTheory/BreadthFirstSearchShortestReach/a.out",
+		"/Users/apple/HackerRank/Algorithms/GraphTheory/BreadthFirstSearchShortestReach/bfs_shortest_reach.cpp",
+		"/Users/apple/HackerRank/Algorithms/GraphTheory/KruskalMSTReallySpecialSubtree/kruskal_mst.cpp",
+		"/Users/apple/HackerRank/DataStructures/Arrays/SparseArrays/sparse_arrays.cpp",
+		"/Users/apple/HackerRank/DataStructures/Trie/NoPrefixSet/no_prefix_set.cpp",
+		"/Users/apple/HackerRank/DataStructures/Trie/Contacts/contacts.cpp",
+		"/Users/apple/HackerRank/ArtificialIntelligence/StatisticsAndMachineLearning/BasicStatisticsWarmup/basic_statistics_warmup.cpp",
+		"/Users/apple/HackerRank/ArtificialIntelligence/BotSavesPrincess2/bot_saves_princess2.cpp",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/SubstringDiff/substring_diff_2.cpp",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/SubstringDiff/a.in",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/SubstringDiff/substring_diff.cpp",
+		"/Users/apple/LintCode/FindTheMissingNumber/find_the_missing_number.cpp",
+		"/Users/apple/myblog/source/_posts/find-peak-element.md",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/AngryChildren2/a.in",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/AngryChildren2/angry_children_2.cpp",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/TheMaximumSubarray/the_maximum_subarray.cpp",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/DecibinaryNumbers/decibinary_numbers.cpp",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/FairCut/a.in",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/FairCut/fair_cut.cpp",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/Equal/equal.cpp",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/SamAndSubstrings/sam_and_substrings.cpp",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/TheCoinChangeProblem/the_coin_change_problem.cpp",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/PrimeXOR/prime_xor.cpp",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/Abbreviation/abbreviation.cpp",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/Abbreviation/a.out",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/Abbreviation/a.in",
+		"/Users/apple/HackerRank/Algorithms/BitManipulation/AndProduct/and_product.cpp",
+		"/Users/apple/HackerRank/Algorithms/BitManipulation/AndProduct/a.in",
+		"/Users/apple/HackerRank/Algorithms/BitManipulation/AndProduct/a.out",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/FibonacciModified/fibonacci_modified.cpp",
+		"/Users/apple/HackerRank/Algorithms/BitManipulation/MaximizingXOR/maximizing_xor.cpp",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/KingdomDivision/kingdom_division.cpp",
+		"/Users/apple/HackerRank/Algorithms/Greedy/MarcsCakewalk/marcs_cakewalk.cpp",
+		"/Users/apple/HackerRank/ArtificialIntelligence/BotSavesPrincess/bot_saves_princess.cpp",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/KingdomDivision/a.in",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/Equal/a.in",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/SherlockAndCost/a.in",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/SherlockAndCost/a.out",
+		"/Users/apple/HackerRank/Algorithms/DynamicProgramming/SherlockAndCost/sherlock_and_cost.cpp",
+		"/Users/apple/HackerRank/FunctionalProgramming/MatrixRotation/matrix_rotation.ml",
+		"/Users/apple/HackerRank/FunctionalProgramming/FilterElements/filter_elements.ml",
+		"/Users/apple/HackerRank/FunctionalProgramming/RotateString/rotate_string.ml",
+		"/Users/apple/HackerRank/FunctionalProgramming/SwapNodes/swap_nodes.ml",
+		"/Users/apple/HackerRank/Algorithms/GraphTheory/SynchronousShopping/a.in",
+		"/Users/apple/HackerRank/Algorithms/GraphTheory/SynchronousShopping/synchronous_shopping.cpp",
+		"/Users/apple/HackerRank/Algorithms/GraphTheory/SynchronousShopping/a.out",
+		"/Users/apple/HackerRank/Algorithms/Warmup/TimeConversion/time_conversion.cpp",
+		"/Users/apple/HackerRank/FunctionalProgramming/SequenceFullOfColors/sequence_full_of_colors.ml",
+		"/Users/apple/HackerRank/FunctionalProgramming/TheSumOfPowers/the_sum_of_powers.ml",
+		"/Users/apple/HackerRank/FunctionalProgramming/StringPermute/string_permute.ml",
+		"/Users/apple/HackerRank/Algorithms/GraphTheory/SynchronousShopping/synchronous_shopping_2.cpp",
+		"/Users/apple/HackerRank/Algorithms/Sorting/FraudulentActivityNotifications/fraudulent_activity_notifications.ml",
+		"/Users/apple/HackerRank/Algorithms/Sorting/TheFullCountingSort/the_full_counting_sort.ml",
+		"/Users/apple/HackerRank/Algorithms/Sorting/InsertionSortPart1/insertion_sort_part1.ml"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"/Users/apple/leet_practice"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fout",
+			"cout",
+			"orders",
+			"err",
+			"int32",
+			"maxHeap",
+			"h.nums",
+			"numH",
+			"isomophism",
+			"`",
+			"push",
+			"hash",
+			"maxlen",
+			"queue",
+			"fl",
+			"4500",
+			"dist x1 x2 y1 y2",
+			"b =",
+			"a =",
+			"len",
+			"+",
+			"tmp",
+			"bfs",
+			"fi",
+			"dist",
+			"dij",
+			"second",
+			"first",
+			"count.[i]",
+			"arr",
+			"107",
+			"35",
+			"N",
+			"tot",
+			"sum",
+			"fin>>",
+			"lst",
+			"process",
+			"sum",
+			"fail",
+			"win",
+			"map",
+			"pre",
+			"pre_order",
+			"post_order",
+			"pre",
+			"sons",
+			"f",
+			"exp",
+			"next",
+			"game_of_stones",
+			"0",
+			"k",
+			"f[",
+			"[k][i][j]",
+			"num5",
+			"num2",
+			"f5",
+			"f2",
+			"2A",
+			"time",
+			"14",
+			"t",
+			"betsy",
+			"vis",
+			"betsy",
+			"map",
+			"[\n",
+			"clocks",
+			"count",
+			"vans",
+			"fence3",
+			"by",
+			"bx",
+			"fence8",
+			"/*",
+			"hash_last_col",
+			"hash_last_row",
+			"is_prime",
+			"flag",
+			"diag[1]",
+			"diag[0]",
+			"232",
+			"yy",
+			"stop",
+			"hash2",
+			"hash1",
+			"pos",
+			"mycmp",
+			"59221",
+			"is_p",
+			"is_prime(",
+			"row_count",
+			"100000",
+			"prime2",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"wissqu",
+			"fence8",
+			"depth",
+			"rail",
+			"board",
+			"cur",
+			"max",
+			"cryptcow",
+			"count",
+			"cowcycle",
+			"rect1",
+			"packrec",
+			"rec",
+			"dfs1",
+			"calfflac",
+			"Ngp",
+			"pg",
+			"gp",
+			"is_same",
+			"character",
+			"vans",
+			"cowxor",
+			"len",
+			"rectbarn",
+			"left",
+			"right",
+			"up",
+			"starry"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ordersIdx",
+			"int",
+			"minHeap",
+			"h",
+			"maxH",
+			"isomorphism",
+			"heap_push",
+			"my_hash",
+			"maxsize",
+			"max_xor",
+			"dist !x1 !x2 !y1 !y2",
+			"b :=",
+			"a :=",
+			"perimeter",
+			"cur",
+			"dij",
+			"fish",
+			"cost",
+			"bfs",
+			"snd",
+			"fst",
+			"count.(i)",
+			"lst",
+			"tot",
+			"M",
+			"N",
+			"scanf(\"%d\",&",
+			"count",
+			"loop",
+			"w",
+			"mytime",
+			"order",
+			"pre_order",
+			"post",
+			"children",
+			"parent",
+			"next_e",
+			"tower_breakers",
+			"a_chessboard_game",
+			"k",
+			"1",
+			"0",
+			"[i][j][k]",
+			"num[1]",
+			"num[0]",
+			"f[1]",
+			"f[0]",
+			"2B",
+			"change_time",
+			"845",
+			"j",
+			"checker",
+			"fence4",
+			"g",
+			"betsy",
+			"num",
+			"clocks",
+			"latin",
+			"besty",
+			"bestx",
+			"fence3",
+			"hash3",
+			"hash2",
+			"not_prime",
+			"diag2",
+			"diag1",
+			"full",
+			"hash_next_row",
+			"hash_next_col",
+			"my_cmp",
+			"is_prime",
+			"is_prime[",
+			"maxp",
+			"prime3",
+			"4",
+			"3",
+			"2",
+			"1",
+			"0",
+			"prime3",
+			"wissqu",
+			"cur_r",
+			"r",
+			"b",
+			"depth",
+			"fence8",
+			"s_count",
+			"cryptcow",
+			"cowcycle",
+			"rect1",
+			"backup",
+			"dfs",
+			"packrec",
+			"same_letter",
+			"letter",
+			"calfflac",
+			"vans",
+			"max_len",
+			"cowxor",
+			"le",
+			"ri",
+			"height",
+			"rectbarn",
+			"segment",
+			"tot",
+			"twofive",
+			"hidden",
+			"picture",
+			"count",
+			"best_len",
+			"charrec",
+			"tot",
+			"telecow",
+			"g",
+			"tour",
+			"milk4",
+			"area",
+			"->",
+			"window",
+			"idx",
+			"schlnet",
+			"bigbrn",
+			"barrier",
+			"snail",
+			"16",
+			"starry",
+			"theme",
+			"under"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "1532/1532_2.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								525,
+								525
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 684.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 178.0
+	},
+	"output.exec":
+	{
+		"height": 33.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sublime_haskell_error_panel":
+	{
+		"height": 160.0
+	},
+	"output.sublime_haskell_output_panel":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 35.0
+	},
+	"pinned_build_system": "",
+	"project": "hdoj.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
